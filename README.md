@@ -1,5 +1,6 @@
 # Exercism
 # does hitch work?
+# IDK, let's see...
 
 Client gem for the warmup-exercise app exercism.io.
 
