@@ -29,9 +29,9 @@ Gem::Specification.new do |spec|
 
 
   if RUBY_VERSION <= "1.8.7"
-    spec.add_development_dependency "nokogiri", "~>1.5.0"
+    spec.add_development_dependency "nokogiri", "~>1.18.8"
   else
-    spec.add_development_dependency "nokogiri", "~>1.6.0"
+    spec.add_development_dependency "nokogiri", "~>1.18.8"
   end
 
   spec.add_development_dependency "approvals"
